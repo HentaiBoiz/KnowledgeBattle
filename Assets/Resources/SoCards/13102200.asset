@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7241dcfb2ab5d548a9b23fc2054d777, type: 3}
+  m_Name: 13102200
+  m_EditorClassIdentifier: 
+  id: 13102200
+  cardName: Xiaoru No.3
+  level: 2
+  atk: 150
+  life: 3
+  timeLife: 0
+  cardDescription: The assembly type fighting robots No.3 - by Darryl He
+  cardHints:
+  - 4
+  - 7
+  - '-'
+  - 2
+  type: 0
+  attribute: 0
+  cardSprite: {fileID: 21300000, guid: bb411980084b4f14db8ee46424c9bbde, type: 3}
+  templateColor: C7DEB5
+  queueEffects: []
+  mainEffects: []
+  continuousEffect: []
+  dropEffect: []

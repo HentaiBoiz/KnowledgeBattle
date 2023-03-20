@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_LoginScenePlayfab.unity
+    guid: 1d21b65767ac4b341b61ea848d424a75
+  - enabled: 1
+    path: Assets/Scenes/1_3_Stadium.unity
+    guid: 680ebf78187db6a42b23550d59c6322b
+  - enabled: 1
+    path: Assets/Scenes/1_OfflineScene.unity
+    guid: 5c55cad6c72700d45ab48e69487fad6e
+  - enabled: 1
+    path: Assets/Scenes/1_DuelRoomScene.unity
+    guid: 75532b888cc098646be7be5ac7a4c874
+  - enabled: 1
+    path: Assets/Scenes/1_WaitingScene.unity
+    guid: 67ce755fbacbdbf4d94cc92b30142686
+  - enabled: 1
+    path: Assets/Scenes/2_DuelScene.unity
+    guid: 8cf29afe97dd86d4da3cb6e90e47b5c7
+  - enabled: 1
+    path: Assets/Scenes/3_VendingShopScene.unity
+    guid: 0aceb2eb8c9ef534582e8eb5497524a0
+  - enabled: 1
+    path: Assets/Scenes/4_DeckEditor.unity
+    guid: d4de1857bf6adb144bcb70ec05e60149
+  - enabled: 1
+    path: Assets/Scenes/1_PlayerProfile.unity
+    guid: 0bc724569703945bb9314ef0a8784041
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: e2ba2711038514d958b0de36238d63fb
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}

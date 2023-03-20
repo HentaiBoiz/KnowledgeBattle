@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7241dcfb2ab5d548a9b23fc2054d777, type: 3}
+  m_Name: 13102201
+  m_EditorClassIdentifier: 
+  id: 13102201
+  cardName: The Tree of Life
+  level: 0
+  atk: 0
+  life: 0
+  timeLife: 0
+  cardDescription: You can activate this card after your opponent pushed a Battle
+    Card to Battle Zone. Gain Health Point equal to the original ATK of that Battle
+    Card.
+  cardHints:
+  - 3
+  - '-'
+  - '*'
+  - 0
+  type: 2
+  attribute: 0
+  cardSprite: {fileID: 21300000, guid: 9e3ffeead94641544a4a40d55bc9b085, type: 3}
+  templateColor: C2E3E1
+  queueEffects: []
+  mainEffects:
+  - {fileID: 8401665619946283649, guid: 8a06b20e620e6e9438c67094fd4a9ef8, type: 3}
+  continuousEffect: []
+  dropEffect: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7241dcfb2ab5d548a9b23fc2054d777, type: 3}
+  m_Name: GodofJungle
+  m_EditorClassIdentifier: 
+  id: 15102202
+  cardName: God of Jungle
+  level: 6
+  atk: 400
+  life: 6
+  cardDescription: This is God of Forest
+  cardHints:
+  - 6
+  - O
+  - 3
+  - +
+  type: 0
+  attribute: 5
+  cardSprite: {fileID: 21300000, guid: 84c59e5173f5ffe4d9026c83533b6e78, type: 3}
+  templateColor: D8FDF0
+  queueEffects: []
+  mainEffects: []
+  continuousEffect: []
+  dropEffect: []

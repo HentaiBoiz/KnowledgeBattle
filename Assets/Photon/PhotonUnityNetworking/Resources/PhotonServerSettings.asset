@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: c4affcf7-7caa-4de2-acf2-fd37dc646292
+    AppIdFusion: 
+    AppIdChat: b5133230-cd91-4f8e-9415-aa21ddaafacf
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: asia
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_ClientChoose
+  - SetClientChoose
+  - SetClientShowButton
+  - SetAllShowButton
+  - SetShowResultImage
+  - SetHostChoose
+  - ShowTurnButtonClient
+  - LetsDuel
+  - UpdateRoomDuelist
+  - SetDeckPosition
+  - RPC_SetDeck
+  - RPC_UpdateDeck
+  - RPC_DrawCard
+  - RPC_SetTurnWhenStartGame
+  - RPC_GoToReadyStep
+  - RPC_GoToBattleStep
+  - RPC_GoToBonusStep
+  - RPC_ChangeTurn
+  - RPC_GoToEndStep
+  - RPC_QueueACard
+  - RPC_SetQuestion
+  - RPC_AttachACard
+  - RPC_CancelQuestion
+  - RPC_SolveQuestion
+  - DiscardAllAttachCard
+  - RPC_SetDuelistHP
+  - RPC_SetAttackedBool
+  - RPC_SetCardAtk
+  - RPC_SetCardLife
+  - DestroyBattleCard
+  - RPC_ActivateSupportCard
+  - RPC_SetActionSide
+  - RPC_StartAttackVFX
+  - RPC_StartInsATKAttribute
+  - RPC_StartIncATKAttribute
+  - RPC_EndIncATKAttribute
+  - RPC_SetCheatCard
+  - RPC_ActivateCheatCard
+  - RPC_EndCounterState
+  - RPC_ActivatedCheat
+  - RPC_YouLose
+  - RPC_StartAttackDirectlyVFX
+  - RPC_SetPlayerReady
+  - RPC_UpdateTimerUI
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
